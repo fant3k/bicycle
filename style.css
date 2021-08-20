@@ -1,0 +1,284 @@
+body{
+    color: #ffffff;
+    background: #413f3b url("images/bg.jpg") ;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 90%;
+    margin: 0px;
+    text-align: center;
+    height: 1000px;
+}
+.header{
+    background-image: url("images/bg-header.jpg");
+    padding-right: 0px 0px 0px 0px;
+    top: 0%;
+    padding: 0px;
+    height: 100px;
+    position: fixed;
+    width: 100%;
+    z-index: 10000000000000;
+}
+.logo{
+    float: left;
+    padding: 45px 0px 0px 145px;
+    width: 216px;
+    height: 37px;
+    top: 50px;
+    z-index: 100000000;
+}
+a{
+    text-decoration: none;
+    color: #fff;     
+}
+a:hover{
+    color: thistle;
+}
+.nav > a{
+    margin-left: 5px;
+}
+.nav{
+    top: 5%;
+    position: fixed;
+    left: 0px;
+    width: 165%;
+    z-index: 1500000000000000000000000000000;
+}
+.palochka{
+    color: rgb(255, 255, 255);
+}
+.wrapper{
+    position: relative;
+    top: -230px;
+    float: right;
+    width: 2200px;
+    font-size: 17px;
+    text-transform: uppercase;
+    z-index: 5000; 
+}
+.main-text{
+    color: #7e9576;
+    z-index:
+
+}
+.bicycle-photo{
+    background-image: url("images/triangles.png");
+    position: relative;
+    top: 140px;
+    right: 225px;
+    height: 336px;
+    z-index: 100;
+}
+.back-triangle-photo{
+    background-image: url("images/bg-triangle.png");
+    position: absolute;
+    top: 0px;
+    right: 970px;
+    z-index: 90;
+}
+.date{
+    color:#7e9576;
+    position: relative;
+    top: -230px;
+    left: 1070px;  
+}
+.text{
+    position: relative;
+    left: 1070px;
+    top: -200px;
+    clear: left;
+    font-size: 90%; 
+}
+.hyperlink{
+    color: #7e9576;
+}
+.hyperlink:hover{
+    color: #ffffff;
+}
+.line-1{
+    position: relative;
+    top: 150px;
+    float: right;
+    right: 530px;
+    border-top: 2px solid gray;
+    width: 1070px;  
+}
+.articles{
+    text-transform: uppercase;
+    float: left;
+    position: relative;
+    left: 80px;
+    top: 140px;
+    font-size: 23px;
+    color:#7e9576;
+}
+.more1{
+    float: left;
+    position: relative;
+    left: -110px;
+    top: 210px;
+}
+.more-1{
+    float: left;
+    position: relative;
+    left: -330px;
+    top: 350px;
+}
+.line-2{
+    float: left;
+    position: relative;
+    left: -553px;
+    top: 420px;
+    border-top: 2px solid gray;
+    width: 228px;
+
+}
+.more-2{
+    float: left;
+    position: relative;
+    left: -780px;
+    top: 420px;
+}
+.line-3{
+    float: left;
+    position: relative;
+    left: -1000px;
+    top: 475px;
+    border-top: 2px solid gray;
+   width: 230px;
+}
+.more-3{
+    float: left;
+    position: relative;
+    left: -1240px;
+    top: 480px;
+}
+.more2{
+    float: left;
+    position: relative;
+    left: -292px;
+    top: 148px;
+}
+.more-4{
+    float: left;
+    position: relative;
+    left: -540px;
+    top: 289.5px;
+}
+.line-4{
+    float: left;
+    position: relative;
+    left: -800px;
+    top: 345px;
+    border-top: 2px solid gray;
+    width: 260px;
+}
+.more-5{
+    float: left;
+    position: relative;
+    left: -1060px;
+    top: 342px;
+}
+.line-5{
+    float: left;
+    position: relative;
+    left: -800px;
+    top: 340px;
+    border-top: 2px solid gray;
+    width: 260px;
+}
+.more-6{
+    float: left;
+    position: relative;
+    left: -1060px;
+    top: 342px;
+}
+.more3{
+    float: left;
+    position: relative;
+    left: -265px;
+    top: 42px;
+
+}
+.more-7{
+    float: left;
+    position: relative;
+    left: -470px;
+    top: 185px;
+}
+.line-6{
+    float: left;
+    position: relative;
+    left: -715px;
+    top: 230px;
+    border-top: 2px solid gray;
+    width: 260px;
+
+}
+.line-7{
+    float: left;
+    position: relative;
+    left: -480px;
+    top: 184px;
+    border-top: 2px solid gray;
+    width: 260px;
+
+
+}
+.more-8{
+    float: left;
+    position: relative;
+    left: -710px;
+    top: 245px;
+
+}
+.more4{
+    float: left;
+    position: relative;
+    left: -485px;
+    top: -54px;
+
+}
+.more-9{
+    float: left;
+    position: relative;
+    left: 1100px;
+    top: -35px
+
+}
+.line-8{
+    float: left;
+    position: relative;
+    left: 880px;
+    top: 25px;
+    border-top: 2px solid gray;
+    width: 250px;
+
+
+}
+.more-10{
+    float: left;
+    position: relative;
+    left: 630px;
+    top: 25px
+
+
+}
+.line-9{
+    float: left;
+    position: relative;
+    left: 380px;
+    top: 70px;
+    border-top: 2px solid gray;
+    width: 250px;
+
+
+}
+.more-11{
+    float: left;
+    position: relative;
+    left: 130px;
+    top: 70px
+
+}
+
+
+
